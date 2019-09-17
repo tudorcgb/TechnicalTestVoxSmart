@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f301d6d-6193-4bd7-a282-0c8fa12ced4a" name="Default Changelist" comment="" />
+    <list default="true" id="1f301d6d-6193-4bd7-a282-0c8fa12ced4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TechicalTestVoxSmart/com/tudor/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TechicalTestVoxSmart/com/tudor/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TechicalTestVoxSmart/com/tudor/NumberParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TechicalTestVoxSmart/com/tudor/NumberParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tudor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tudor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tudor/NumberParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tudor/NumberParser.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +26,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QulIiYMIwtN34YrZImXofrIsCB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -132,22 +140,27 @@
       <option name="presentableId" value="Default" />
       <updated>1568628283109</updated>
       <workItem from="1568628286711" duration="376000" />
-      <workItem from="1568628711588" duration="7937000" />
+      <workItem from="1568628711588" duration="8821000" />
+      <workItem from="1568717456183" duration="3297000" />
+      <workItem from="1568731153862" duration="1401000" />
+      <workItem from="1568735344519" duration="9761000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/tudor/NumberParser.java</url>
-          <line>62</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
